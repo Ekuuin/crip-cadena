@@ -1,0 +1,9 @@
+@import './base.css';
+@import './typography.css';
+
+#app {
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+  font-family: 'Poppins', sans-serif;
+}
